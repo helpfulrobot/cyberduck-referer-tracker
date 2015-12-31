@@ -237,5 +237,4 @@ class refererTracker
     {
         return array_merge($this->retrieveExternal(), $this->retrieveInternal());
     }
-
 }
